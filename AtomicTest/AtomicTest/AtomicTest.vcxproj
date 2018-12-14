@@ -118,6 +118,7 @@
     <ClCompile Include="..\Classes\main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="..\Classes\FLockfreeQueue.h" />
     <ClInclude Include="..\Classes\Spinlock.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

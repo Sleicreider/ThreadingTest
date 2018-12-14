@@ -23,5 +23,8 @@
     <ClInclude Include="..\Classes\Spinlock.h">
       <Filter>Source Files</Filter>
     </ClInclude>
+    <ClInclude Include="..\Classes\FLockfreeQueue.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
